@@ -1,0 +1,10 @@
+<library path="new_robot_firmware">
+    <class name="new_robot_firmware/NewRobotInterface"
+      type="new_robot_firmware::NewRobotInterface"
+      base_class_type="hardware_interface::SystemInterface"
+    >
+      <description>
+        NewRobot Hardware Interface
+      </description>
+    </class>
+  </library>

@@ -1,0 +1,36 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/om/slambot/install/rplidar_ros/include/**",
+        "/home/om/slambot/install/new_robot_firmware/include/**",
+        "/home/om/slambot/install/new_robot_controller/include/**",
+        "/home/om/slambot/install/bumperbot_cpp_examples/include/**",
+        "/home/om/slambot/install/bumperbot_msgs/include/**",
+        "/home/om/slambot/install/bumperbot_localization/include/**",
+        "/home/om/slambot/install/bumperbot_firmware/include/**",
+        "/home/om/slambot/install/bumperbot_controller/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/om/slambot/src/bumperbot_controller/include/**",
+        "/home/om/slambot/src/bumperbot_cpp_examples/include/**",
+        "/home/om/slambot/src/bumperbot_firmware/include/**",
+        "/home/om/slambot/src/bumperbot_localization/include/**",
+        "/home/om/slambot/src/cpp_examples/include/**",
+        "/home/om/slambot/src/new_robot_controller/include/**",
+        "/home/om/slambot/src/new_robot_firmware/include/**",
+        "/home/om/slambot/src/rplidar_ros2/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,11 @@
+# Request: Current position and goal
+float64 current_x
+float64 current_y
+float64 current_yaw
+float64 current_goal_x
+float64 current_goal_y
+
+---
+# Response: Obstacle avoidance commands
+float64 steering_direction
+float64 velocity
